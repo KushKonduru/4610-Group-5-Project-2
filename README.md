@@ -6,7 +6,7 @@
 
 1. Brian Michaels - https://github.com/bmichaels914/4610-Group-5-Project-2/blob/c5ca3dbdd4015d40c2a76cd2e0498750d915b20f/README.md
 2. Kush Konduru (Owner)
-3. Pierce Jennings - https://github.com/PierceJ-MIS/4610-Group-5-Project-1/blob/c1464054eed714c5429824d215c0d16218bbc2db/README.md
+3. Pierce Jennings - https://github.com/PierceJ-MIS/4610-Group-5-Project-2/blob/850111566568a52968bac1c08af8cb6023bdfb39/README.md
 4. Simran Kansara - https://github.com/simrankansara2028/4610-Group-5-Project-2/blob/c5ca3dbdd4015d40c2a76cd2e0498750d915b20f/README.md
 5. Rohan Reddy - https://github.com/rohanreddy0205-debug/4610-Group-5-Project-2/blob/ccf5559fb9264b71c4f3283487c0b8a5fe1e97e5/README.md
 
